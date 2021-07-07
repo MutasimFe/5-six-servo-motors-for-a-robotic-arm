@@ -1,4 +1,4 @@
-# 5 six servo motors for a robotic arm of the evaluation robot 
+# 5 - six servo motors for a robotic arm of the evaluation robot 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/85455361/124705407-4b38b880-defe-11eb-9f68-1afa998dbb38.jpg)
 
