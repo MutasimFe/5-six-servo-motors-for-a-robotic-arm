@@ -64,8 +64,6 @@ Besides the initial movement I have chosen five modes for the evaluation robot w
 
 # Suggested Ideas: 
 
-###  More servo motors 
+###  (1) More servo motors 
 
-At least one more 
-
-For more flexible and movements parts of the arm so we can make even more movements.
+At least one more for more flexible and movements parts of the arm so we can make even more movements.
