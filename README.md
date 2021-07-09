@@ -14,15 +14,23 @@ Connect 6 servo motors for evaluation robot arms and every 3 servos control 1 ar
 4. Capacitors x2
 5. Voltage regulator Lm317
 
-## Servo Motors 
+## MG995 Servo Motor:
+
+![MG995-Servo-Pinout](https://user-images.githubusercontent.com/85455361/125038290-ecaa4080-e09d-11eb-9b9f-f8967cbb6d89.png)
+
+### As shown the servomotor has 3 pins:
+
+1. Vcc (Red) ; power pin which must connect to the voltage source.
+2. Ground (Brown); ground pin.
+3. Singla (Orange); which is responsible for controling the degree of the brush and it must be connected to a PWM pin. 
+
 # Connection:
 
 ![Task 5 - six servo motors for robotic arm ( evaluation robot ) ](https://user-images.githubusercontent.com/85455361/124705388-470c9b00-defe-11eb-8635-20d412b3711d.png)
 
 ### Notes:
 
-1. The batteries and voltage regulators are chosen because the real components are not available in Tinkercad
-
+* The batteries and voltage regulators are chosen because the real components are not available in Tinkercad
 
 ## Movements
 
@@ -36,30 +44,30 @@ Besides the initial movement I have chosen five modes for the evaluation robot w
 
 ###  Notes
 
-1. The degrees are based on imagination so they can be easily adjusted based on simple math after designing the arms by the mechanical engineer. 
+* The degrees are based on imagination so they can be easily adjusted based on simple math after designing the arms by the mechanical engineer. 
 
 # Video:
 
 ### Notes
 
-1. Each movement can be done after inter a specific letter that i set before. 
-2. Some servos are in opposite direction because they are in opposite direction inside the arms.
-3. In next section is about code but before that, I want to mention that I used serial communication just for presenting the modes.
+* Each movement can be done after inter a specific letter that i set before. 
+* Some servos are in opposite direction because they are in opposite direction inside the arms.
+* In next section is about code but before that, I want to mention that I used serial communication just for presenting the modes.
 
 
 # Code:
 
-1. Defning:
+* Defning:
 
 
-2. Setup:
+* Setup:
 
 
-3. The main body (Movements)
+* The main body (Movements)
 
 ### Note:
 
-1. I used the delay function after the movement before it returns to its initial position, however, the delay time depends on the evaluation robot and it can easily be adjusted.
+* I used the delay function after the movement before it returns to its initial position, however, the delay time depends on the evaluation robot and it can easily be adjusted.
 
 
 # Suggested Ideas: 
