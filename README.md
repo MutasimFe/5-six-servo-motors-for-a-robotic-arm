@@ -9,12 +9,12 @@ Connect 6 servo motors for evaluation robot arms and every 3 servos control 1 ar
 # Components:
 
 1. Arduino 
-2. Servo motors x6
+2. Servo motors MG995 x6
 3. Battery
 4. Capacitors x2
-5. Voltage regulator 
+5. Voltage regulator Lm317
 
-
+## Servo Motors 
 # Connection:
 
 ![Task 5 - six servo motors for robotic arm ( evaluation robot ) ](https://user-images.githubusercontent.com/85455361/124705388-470c9b00-defe-11eb-8635-20d412b3711d.png)
