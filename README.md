@@ -118,7 +118,7 @@ https://user-images.githubusercontent.com/85455361/125160841-e0021700-e187-11eb-
 ```
 
 
-* The main body (Movements)
+* The main body (Movements):
 
 ``` c++
   servo1.write(0); //initial pos (all arms are down)
@@ -137,7 +137,7 @@ https://user-images.githubusercontent.com/85455361/125160841-e0021700-e187-11eb-
     Byte = Serial.read(); // for reading and store from outside
 
 ``` 
-* Modes
+* Modes:
 
 ``` c++
 
