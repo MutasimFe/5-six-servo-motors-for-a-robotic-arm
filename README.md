@@ -4,7 +4,7 @@
 
 # The Main Idea:
 
-Connect 6 servo motors for evaluation robot arms and every 3 servos control 1 arm. Then set an initial position for the arms and three movements at least for the arms for interaction.
+Connect 6 servo motors for evaluation robot arms each 3 servos control 1 arm. Then set an initial position for the arms and three movements at least for the arms for interaction.
 
 # Components:
 
@@ -12,7 +12,7 @@ Connect 6 servo motors for evaluation robot arms and every 3 servos control 1 ar
 2. Servo motors MG995 x6
 3. Battery
 4. Capacitors x2
-5. Voltage regulator Lm317
+5. Voltage regulator Lm317; but in tinkercad we i am using 5 volt voltage regulator instead.
 
 ## MG995 Servo Motor:
 
