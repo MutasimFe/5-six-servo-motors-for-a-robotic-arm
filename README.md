@@ -48,14 +48,13 @@ Besides the initial movement I have chosen five modes for the evaluation robot w
 
 # Video:
 
-https://user-images.githubusercontent.com/85455361/125159860-b5618f80-e182-11eb-9f7e-4f7f266883ec.mp4
+
 
 ### Notes
 
 * Each movement can be done after inter a specific letter that i set before. 
 * Some servos are in opposite direction because they are in opposite direction inside the arms.
 * In next section is about code but before that, I want to mention that I used serial communication just for presenting the modes.
-
 
 # Code:
 
@@ -191,7 +190,24 @@ https://user-images.githubusercontent.com/85455361/125159860-b5618f80-e182-11eb-
       servo4.write(20);
       servo5.write(160);
       servo6.write(90);
-      delay(5000);
+      delay(3000);
+      
+      servo3.write(70);
+      servo6.write(110);
+      delay(2000);
+      
+      servo3.write(90);
+      servo6.write(90);
+      delay(2000);
+      
+      servo3.write(70);
+      servo6.write(110);
+      delay(2000);
+      
+      servo3.write(90);
+      servo6.write(90);
+      delay(2000);
+      
     }
 
     else if (Byte == 'S') // Sad mode
