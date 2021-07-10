@@ -48,6 +48,8 @@ Besides the initial movement I have chosen five modes for the evaluation robot w
 
 # Video:
 
+https://user-images.githubusercontent.com/85455361/125159860-b5618f80-e182-11eb-9f7e-4f7f266883ec.mp4
+
 ### Notes
 
 * Each movement can be done after inter a specific letter that i set before. 
