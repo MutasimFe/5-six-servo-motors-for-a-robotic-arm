@@ -121,7 +121,23 @@ void loop()
       servo4.write(20);
       servo5.write(160);
       servo6.write(90);
-      delay(5000);
+      delay(3000);
+      
+      servo3.write(70);
+      servo6.write(110);
+      delay(2000);
+      
+      servo3.write(90);
+      servo6.write(90);
+      delay(2000);
+      
+      servo3.write(70);
+      servo6.write(110);
+      delay(2000);
+      
+      servo3.write(90);
+      servo6.write(90);
+      delay(2000);
 
     }
 
