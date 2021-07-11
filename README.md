@@ -6,6 +6,10 @@
 
 Connect 6 servo motors for evaluation robot arms each 3 servos control 1 arm. Then set an initial position for the arms and three movements at least for the arms for interaction.
 
+### Wokring is done with my mate:
+
+@https://github.com/abdukhaledi
+
 # Components:
 
 1. Arduino 
